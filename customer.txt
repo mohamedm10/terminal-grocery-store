@@ -1,0 +1,2 @@
+Mohamed,Nairobi,mmj@mmj,10100101,male,1990,mmj,pass,pass
+John,Nairobi,john@john.com,0101010101,M,01-01-2000,jj,1234,1234

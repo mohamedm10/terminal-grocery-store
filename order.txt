@@ -1,0 +1,2 @@
+Mohamed,Panadol,300,1
+John,Action,200,2
